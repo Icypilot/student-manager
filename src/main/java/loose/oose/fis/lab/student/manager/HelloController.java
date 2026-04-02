@@ -1,4 +1,4 @@
-package org.example.studentmanagera;
+package loose.oose.fis.lab.student.manager;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
